@@ -22,6 +22,8 @@ from IPython.display import Image
 import matplotlib.pyplot as plt
 import cv2
 import sys
+import numpy as np
+
 
 #get the paths for the images and ocr data
 script_directory = os.path.dirname(os.path.abspath(__file__))
