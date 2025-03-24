@@ -12,3 +12,7 @@ When you Run Launch_Single_Document_Interface.bat, it will ask you for 2 file lo
 The third textbox is where you create a new folder to store the reports and data. This folder will be created if it does not already exist yet, and once the other programs
 are finished running, you can navigate to this folder and view the reprorts.
 For the most granular analysis of the document text, Run Launch_Text_Viewer.bat <b>Note: this can only be done after you have succesfully ran Generate_Text_Report.bat</b>
+
+Youtube Tutorial If needed:
+<link>https://youtu.be/V7bZHBJITR8</link>
+
